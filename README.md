@@ -24,11 +24,11 @@ My production work lives in company repositories. The store listings are the pub
 
 **Open source here**
 
-- [medpocket](https://github.com/xX0ZAK0Xx/medpocket): a health record app that reads a printed prescription with on-device OCR and turns it into a medicine schedule.
-- [LuxeFlow](https://github.com/xX0ZAK0Xx/LuxeFlow-Fashion-UI-Kit): a fashion commerce app in Flutter. It follows my usual structure: BLoC, get_it, and a domain/data/presentation split per feature.
-- [laravel-todo-app](https://github.com/xX0ZAK0Xx/laravel-todo-app): a Laravel 12 API with Sanctum, role-based admin routes, a service and repository layer, and queued events.
-- [suggest-me-a-laptop-api](https://github.com/xX0ZAK0Xx/suggest-me-a-laptop-api): retrieval first, then an LLM answer forced into a Zod schema. It suggests laptops from live listings at Bangladeshi shops.
-- [chat-backend](https://github.com/xX0ZAK0Xx/chat-backend): Express 5, MongoDB and Socket.IO with JWT auth and attachments.
+- [medpocket](https://github.com/mdzayedoyshik/medpocket): a health record app that reads a printed prescription with on-device OCR and turns it into a medicine schedule.
+- [LuxeFlow](https://github.com/mdzayedoyshik/LuxeFlow-Fashion-UI-Kit): a fashion commerce app in Flutter. It follows my usual structure: BLoC, get_it, and a domain/data/presentation split per feature.
+- [laravel-todo-app](https://github.com/mdzayedoyshik/laravel-todo-app): a Laravel 12 API with Sanctum, role-based admin routes, a service and repository layer, and queued events.
+- [suggest-me-a-laptop-api](https://github.com/mdzayedoyshik/suggest-me-a-laptop-api): retrieval first, then an LLM answer forced into a Zod schema. It suggests laptops from live listings at Bangladeshi shops.
+- [chat-backend](https://github.com/mdzayedoyshik/chat-backend): Express 5, MongoDB and Socket.IO with JWT auth and attachments.
 
 **Stack:** Flutter, Dart, BLoC, Riverpod, GetX · Node.js, Express, NestJS, Laravel · PostgreSQL, MySQL, MongoDB, Prisma · Firebase, FCM, APNs, Novu · bKash, Stripe, SSLCommerz · LLM integration (Gemini, OpenAI-compatible APIs)
 
