@@ -1,33 +1,32 @@
-<h1 align="center">Hi 👋, I'm Md. Zayed Oyshik</h1>
-<h3 align="center">A passionate programmer</h3>
+### Md. Zayed Oyshik
 
-<!-- <img align="right" src="" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img> -->
+Software engineer from Dhaka, Bangladesh. For a little over three years I have been building Flutter apps and, when the project needs it, the Node.js or Laravel API behind them. Right now I work on the consumer apps at [MoveOn Technologies](https://moveon.global), a cross-border shopping and shipping company.
 
-<img align="right" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.webp" width=400 height=660 frameBorder="0" allowFullScreen></img>
+I am looking for a mobile / Flutter engineering role in Germany and am ready to relocate.
 
-![](https://raw.githubusercontent.com/xX0ZAK0Xx/cf/main/output/light_card.svg#gh-dark-mode-only)
-<!-- ![](https://raw.githubusercontent.com/xX0ZAK0Xx/cf/main/output/light_card.svg) -->
+**Apps I have worked on that are live in the stores**
 
+Most of my production code lives in company repositories, so the store listings are the easiest way to see it.
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xX0ZAK0Xx" alt="xX0ZAK0Xx" /></a> </p> -->
+| App | My part | |
+|---|---|---|
+| MoveOn: Global Shop & Shipping | Performance work: app size, cold start, caching and image loading on mid-range Android devices | [Android](https://play.google.com/store/apps/details?id=com.moveon.global) · [iOS](https://apps.apple.com/us/app/moveon-global-shop-ship/id6737624022) |
+| Ali2BD | Technical lead for the new mobile app, from an empty repository to the Play Store | [Android](https://play.google.com/store/apps/details?id=com.aliexpressshoppingbd.ali2bd) |
+| TaskMate | Flutter app, Node.js API and MongoDB schema, including an assistant built on Gemini | [Android](https://play.google.com/store/apps/details?id=com.t360.taskMate) · [iOS](https://apps.apple.com/us/app/task-mate/id6754363385) |
+| TOVOZO | Real-time job tracking, location sharing and notifications for a hotel staffing product | [Android](https://play.google.com/store/apps/details?id=com.m360ictappstudio.tovozo) · [iOS](https://apps.apple.com/us/app/tovozo/id6749312196) |
+| Booking Expert | The flight booking flow and the code structure around it | [Android](https://play.google.com/store/apps/details?id=com.t360.bookingExpert) · [iOS](https://apps.apple.com/eg/app/booking-expert/id6793002600) |
+| World Famous Tours & Travels | Rebuilt the UI and built hotel booking from search to confirmation | [Android](https://play.google.com/store/apps/details?id=com.t360.wfttBd) · [iOS](https://apps.apple.com/us/app/world-famous-tours-travels/id6737253246) |
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xx0zak0xx&label=Profile%20views&color=0e75b6&style=flat" alt="xX0ZAK0Xx" /> </p>
+**Public code worth a look**
 
+- [medpocket](https://github.com/xX0ZAK0Xx/medpocket): my final-year project, a health record app that reads a printed prescription with on-device OCR and turns it into a medicine schedule.
+- [LuxeFlow](https://github.com/xX0ZAK0Xx/LuxeFlow-Fashion-UI-Kit): a fashion shop UI in Flutter. It uses BLoC, get_it and a domain/data/presentation split per feature.
+- [laravel-todo-app](https://github.com/xX0ZAK0Xx/laravel-todo-app): a Laravel 12 REST API with Sanctum auth, role-based admin routes, queued mail and an events/observers flow.
+- [suggest-me-a-laptop-api](https://github.com/xX0ZAK0Xx/suggest-me-a-laptop-api): an Express endpoint that searches local shops with Exa and returns laptop picks as schema-validated JSON from an LLM.
+- [chat-backend](https://github.com/xX0ZAK0Xx/chat-backend): Express 5, MongoDB and Socket.IO chat API with JWT auth and file attachments.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/md-zayed-oyshik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zayed oyshik" height="30" width="40" /></a>
-<a href="https://fb.com/DEYAZ.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. zayed oyshik" height="30" width="40" /></a>
-<a href="https://instagram.com/zakgrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakgrammer" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/xX_ZAK_Xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xx_zak_xx" height="30" width="40" /></a>
-</p>
+**Day to day:** Flutter, Dart, BLoC, Riverpod, GetX, Firebase / FCM, REST APIs, Node.js (Express, NestJS), Laravel, MySQL, PostgreSQL, MongoDB, Stripe and bKash payments, Git.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+BSc in Computer Science and Engineering, Northern University Bangladesh (CGPA 3.89). ICPC 2021 regional qualifier.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xX0ZAK0Xx&&show_icons=true&title_color=ffffff&icon_color=f263f7&text_color=2c9ef5&bg_color=14181f" width="350" alt="xx0zak0xx" /></p>
-
-
-<!-- ![MY github stats](https://github-readme-stats.vercel.app/api?username=xX0ZAK0Xx&&show_icons=true&title_color=ffffff&icon_color=f263f7&text_color=2c9ef5&bg_color=14181f) -->
+[Portfolio](https://mdzayedoyshik.vercel.app) · [Résumé (PDF)](https://mdzayedoyshik.vercel.app/md-zayed-oyshik-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/md-zayed-oyshik/) · zayedoyshik1@gmail.com
