@@ -17,18 +17,23 @@ My production work lives in company repositories. The store listings are the pub
 | Booking Expert | The core flight booking flow and its architecture | [Android](https://play.google.com/store/apps/details?id=com.t360.bookingExpert) · [iOS](https://apps.apple.com/eg/app/booking-expert/id6793002600) |
 | World Famous Tours & Travels | Redesigned the app and delivered hotel booking from search to confirmation | [Android](https://play.google.com/store/apps/details?id=com.t360.wfttBd) · [iOS](https://apps.apple.com/us/app/world-famous-tours-travels/id6737253246) |
 
-**Products of my own**
+**Products of my own, open source**
 
-- [SkyCrew](https://www.skycrew.online/): an aviation accessories store I designed and run. It has a Next.js storefront, a NestJS API on PostgreSQL with Prisma, and a Flutter admin app, with SSLCommerz payments and courier integration.
-- [Nirbhor](https://play.google.com/store/apps/details?id=com.techorbit.nirbhor): an app for running a shared bachelor flat: meals, expenses, wallets, and a monthly settlement. Built alone with Flutter, Express and PostgreSQL.
+Both are live on Google Play, and the full source is public, from the Flutter app to the backend and its tests.
 
-**Open source here**
+| | |
+|---|---|
+| **Tour Board**: plan a group trip, split shared expenses, settle up in as few transfers as possible, and follow the itinerary on a map. Firestore security rules are covered by 46 emulator tests. | [App](https://github.com/mdzayedoyshik/Tour-Board) · [Backend](https://github.com/mdzayedoyshik/Tour-Board-Backend) · [Google Play](https://play.google.com/store/apps/details?id=com.techorbit.tour_board) |
+| **Nirbhor**: run a shared bachelor flat: meals, expenses, wallets and a month-end settlement that adds up to the last taka. Node.js and PostgreSQL backend with 128 tests. | [App](https://github.com/mdzayedoyshik/Nirbhor-App) · [Backend](https://github.com/mdzayedoyshik/nirbhor-api) · [Google Play](https://play.google.com/store/apps/details?id=com.techorbit.nirbhor) |
 
-- [medpocket](https://github.com/mdzayedoyshik/medpocket): a health record app that reads a printed prescription with on-device OCR and turns it into a medicine schedule.
-- [LuxeFlow](https://github.com/mdzayedoyshik/LuxeFlow-Fashion-UI-Kit): a fashion commerce app in Flutter. It follows my usual structure: BLoC, get_it, and a domain/data/presentation split per feature.
+I also designed and run [SkyCrew](https://www.skycrew.online/), an aviation accessories store: a Next.js storefront, a NestJS API on PostgreSQL with Prisma, and a Flutter admin app.
+
+**Smaller open source work**
+
+- [LuxeFlow](https://github.com/mdzayedoyshik/LuxeFlow-Fashion-UI-Kit): a fashion commerce app in Flutter with BLoC, get_it and a domain/data/presentation split per feature.
 - [laravel-todo-app](https://github.com/mdzayedoyshik/laravel-todo-app): a Laravel 12 API with Sanctum, role-based admin routes, a service and repository layer, and queued events.
-- [suggest-me-a-laptop-api](https://github.com/mdzayedoyshik/suggest-me-a-laptop-api): retrieval first, then an LLM answer forced into a Zod schema. It suggests laptops from live listings at Bangladeshi shops.
-- [chat-backend](https://github.com/mdzayedoyshik/chat-backend): Express 5, MongoDB and Socket.IO with JWT auth and attachments.
+- [suggest-me-a-laptop-api](https://github.com/mdzayedoyshik/suggest-me-a-laptop-api): retrieval first, then an LLM answer forced into a Zod schema.
+- [medpocket](https://github.com/mdzayedoyshik/medpocket): my final-year project, which reads printed prescriptions with on-device OCR.
 
 **Stack:** Flutter, Dart, BLoC, Riverpod, GetX · Node.js, Express, NestJS, Laravel · PostgreSQL, MySQL, MongoDB, Prisma · Firebase, FCM, APNs, Novu · bKash, Stripe, SSLCommerz · LLM integration (Gemini, OpenAI-compatible APIs)
 
